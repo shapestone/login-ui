@@ -1,0 +1,85 @@
+body {
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    background-size:cover;
+    width: 100%;
+}
+
+/* home */
+.home {
+    /*background-image: url(../img/crater_lake-2560x1440.jpg);*/
+    margin: 0px 0 0px;
+    text-align: center;
+}
+
+
+
+.home h2 {
+    font-weight: 100;
+    font-size: 93px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0px 12px rgba(36, 36, 36, 0.55);
+    padding: 60px 0 40px 0;
+}
+
+/* home button */
+.home-btn {
+    color: #fff;
+    margin-top: 130px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 24px;
+    padding: 20px 35px;
+    border: 2px solid rgb(219, 82, 47);
+    background: rgb(219, 82, 47);
+    display: inline-block;
+
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+.home-btn:hover {
+    color: #fff;
+    background: transparent;
+}
+
+/* home offers */
+.home-offers {
+    margin: -50px 110px 0 110px;
+    color: #fff;
+    display: block;
+}
+.home-offer{
+    padding: 50px;
+}
+
+
+/* nav bar */
+.login-btn {
+    color: #fff;
+    /*margin-top: 130px;*/
+    /*margin-bottom: 30px;*/
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 18px;
+    padding: 20px 35px;
+    border: 2px solid rgb(219, 82, 47);
+    background: rgb(219, 82, 47);
+    display: inline-block;
+
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+}
+
+.logo{
+    font-weight: 100;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0px 12px rgba(36, 36, 36, 0.55);
+    padding: 0px 0 0px 0;
+}
+
+
